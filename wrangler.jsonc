@@ -14,5 +14,9 @@
     "html_handling": "none",
     "not_found_handling": "404-page",
     "run_worker_first": true
-  }
+  },
+  "routes": [
+    { "pattern": "keywestshoreexcursions.com/*", "zone_name": "keywestshoreexcursions.com" },
+    { "pattern": "www.keywestshoreexcursions.com/*", "zone_name": "keywestshoreexcursions.com" }
+  ]
 }
