@@ -1,0 +1,13 @@
+{
+  "name": "keywestshoreexcursions",
+  "private": true,
+  "scripts": {
+    "build": "python3 scripts/build_site.py",
+    "dev": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "check": "python3 scripts/check_site.py"
+  },
+  "devDependencies": {
+    "wrangler": "^4.40.0"
+  }
+}

@@ -1,0 +1,355 @@
+[
+  {
+    "path": "/",
+    "title": "Key West Shore Excursions | Cruise-Day Planning Guides",
+    "description": "Plan a Key West cruise day: walkability by docking arrangement, Old Town, Duval Street, Mallory Square, and one-day choices. Independent guides — not a tour shop.",
+    "h1": "Key West Shore Excursions for Cruise Passengers",
+    "eyebrow": "Florida · Compact cruise call",
+    "lede": "Key West is one of the more compact US cruise destinations — often walkable into Old Town — but the day still changes with docking arrangement. Start with logistics, then choose walking, local sightseeing transport, or water time.",
+    "crumb": "Home",
+    "actions": [
+      {"href": "#explore", "label": "Explore Key West"},
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Can you walk from the cruise port?", "quiet": true},
+      {"href": "/key-west-cruise-port-guide", "label": "Read the port guide", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "Plan one day", "quiet": true}
+    ],
+    "related": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "title": "Walk from port", "text": "Docking nuance and Old Town access."},
+      {"href": "/key-west-cruise-port-guide", "title": "Port guide", "text": "Mallory, Outer Mole and return planning."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Day styles without a clock timetable."}
+    ],
+    "faq": [
+      {"q": "Does this site sell Key West shore excursions?", "a": "No. These are planning guides. There is no booking, no published pricing and no availability."},
+      {"q": "Is Key West always walkable from the ship?", "a": "Often yes for Old Town interests, but distance and comfort depend on where your ship docks and on heat, mobility and your return window. Read the walkability guide before assuming a single answer."}
+    ]
+  },
+  {
+    "path": "/can-you-walk-key-west-from-cruise-port",
+    "title": "Can You Walk Key West From the Cruise Port? | Docking Guide",
+    "description": "Can you walk Key West from the cruise port? Often yes for Old Town — but distance depends on docking arrangement. Mallory Square, Outer Mole and practical cruise-day walking notes.",
+    "h1": "Can You Walk Key West From the Cruise Port?",
+    "eyebrow": "Walkability · Docking matters",
+    "lede": "Many cruise visitors reach Old Town on foot. The honest answer is not one fixed walking time for every ship — it depends on docking arrangement, heat, mobility and how far into Key West you want to go.",
+    "crumb": "Walk from port",
+    "actions": [
+      {"href": "/key-west-cruise-port-guide", "label": "Port guide", "quiet": true},
+      {"href": "/duval-street-guide", "label": "Duval Street", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true}
+    ],
+    "related": [
+      {"href": "/key-west-cruise-port-guide", "title": "Port guide", "text": "Docking context and return planning."},
+      {"href": "/duval-street-guide", "title": "Duval Street", "text": "How the main strip fits a walking day."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "When walking is the whole day vs part of it."}
+    ],
+    "faq": [
+      {"q": "Is Key West walkable from every cruise docking point?", "a": "Not identically. Some arrangements put you close to Mallory Square and the harbourfront edge of Old Town; others mean a longer walk or a short local transfer before you reach the denser streets."},
+      {"q": "Do I need a taxi for Duval Street?", "a": "Often no if you are docked close to the Old Town waterfront, but confirm where your ship comes alongside and how comfortable you are walking in heat. Mobility needs change the answer."},
+      {"q": "Should I walk to the Southernmost Point?", "a": "It is a longer commitment than a short Old Town stroll. Many visitors walk, use a pedicab or taxi, or fold it into a sightseeing loop — choose based on time and heat, not a single rule."}
+    ]
+  },
+  {
+    "path": "/key-west-cruise-port-guide",
+    "title": "Key West Cruise Port Guide | Docking & Old Town Access",
+    "description": "Key West cruise port guide: docking arrangements, Mallory Square and Outer Mole context, walking versus local transport, and return planning for a compact Florida Keys call.",
+    "h1": "Key West Cruise Port Guide",
+    "eyebrow": "Port · Docking context",
+    "lede": "Key West is a compact call, but the practical day still starts with where the ship comes alongside. Use this guide for docking context, Old Town access and return planning — not for invented ship-to-pier assignments.",
+    "crumb": "Port guide",
+    "actions": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Walkability", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "Plan one day", "quiet": true}
+    ],
+    "related": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "title": "Walk from port", "text": "When walking fits — and when it does not."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Day styles after you understand the call."},
+      {"href": "/key-west-faq", "title": "FAQ", "text": "Short answers for first-timers."}
+    ],
+    "faq": [
+      {"q": "Does this guide assign cruise lines to specific piers?", "a": "No. Docking arrangements change. Treat named locations as planning context, then confirm your sailing’s berth and any shuttle notes from your ship or port information."},
+      {"q": "Is Key West a long-transfer port?", "a": "Usually not. Compared with many Caribbean city calls, Key West keeps Old Town relatively close — but “close” still varies by docking point and by how far you walk into the island."}
+    ]
+  },
+  {
+    "path": "/duval-street-guide",
+    "title": "Duval Street from the Cruise Port | Key West Walking Guide",
+    "description": "Duval Street from the cruise port: where it sits in Old Town, how it fits a walking cruise day, and practical sightseeing context — not a nightlife or shopping directory.",
+    "h1": "Duval Street from the Cruise Port",
+    "eyebrow": "Old Town · Cruise-day walking",
+    "lede": "Duval Street is the familiar north–south spine of Old Town. For many cruise visitors it is the easiest street to understand once you are ashore — shops, galleries, cafés and landmark corners within a flat walking grid.",
+    "crumb": "Duval Street",
+    "actions": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Walk from port", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true}
+    ],
+    "related": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "title": "Walk from port", "text": "Docking nuance before you start walking."},
+      {"href": "/key-west-cruise-port-guide", "title": "Port guide", "text": "How the harbourfront connects to Old Town."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Where a Duval-focused day sits among styles."}
+    ],
+    "faq": [
+      {"q": "Is this a bar or shopping directory?", "a": "No. It is a cruise-day planning page about how Duval Street fits a walking call."},
+      {"q": "Can I do Duval Street and still return with margin?", "a": "Often yes on a typical Key West call, if you keep the day paced and watch your all-aboard time. Exact timing depends on docking point and how far you walk."}
+    ]
+  },
+  {
+    "path": "/one-day-in-key-west",
+    "title": "One Day in Key West from a Cruise | Day Styles",
+    "description": "One day in Key West from a cruise: walkable Old Town, Mallory and Duval, trolley or Conch Train support, water-oriented, relaxed, or history/culture styles. No clock timetable.",
+    "h1": "One Day in Key West from a Cruise",
+    "eyebrow": "Day styles · Not a timetable",
+    "lede": "A useful Key West call usually has one clear shape. These styles help you choose — without a minute-by-minute itinerary that ignores docking, heat and your ship’s return window.",
+    "crumb": "One day",
+    "actions": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Walkability", "quiet": true},
+      {"href": "/best-key-west-shore-excursions", "label": "Compare day ideas", "quiet": true}
+    ],
+    "related": [
+      {"href": "/duval-street-guide", "title": "Duval Street", "text": "Walking-day spine."},
+      {"href": "/key-west-conch-train-tours", "title": "Conch Train context", "text": "When sit-and-ride sightseeing helps."},
+      {"href": "/key-west-sunset-sailing", "title": "Sunset sailing", "text": "Timing suitability, not tickets."}
+    ],
+    "faq": [
+      {"q": "Why is there no hourly schedule?", "a": "Ship arrival and departure times differ, and so does docking. Styles travel better than invented clocks."},
+      {"q": "Should I try to see everything?", "a": "Usually no. Key West rewards a clear shape: walking Old Town, a transport-supported overview, water time, or a calmer shorter loop."}
+    ]
+  },
+  {
+    "path": "/best-key-west-shore-excursions",
+    "title": "Best Key West Shore Excursions | Cruise-Day Ideas",
+    "description": "Compare Key West cruise-day ideas: walking Old Town, local sightseeing transport, water time and longer trips. Editorial comparison — not a tour catalogue or booking list.",
+    "h1": "Best Key West Shore Excursions — Planning Ideas",
+    "eyebrow": "Comparison · Not a catalogue",
+    "lede": "This page compares day shapes for a Key West call. It does not rank operators, quote prices, or sell tickets.",
+    "crumb": "Day ideas",
+    "actions": [
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true},
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Walk from port", "quiet": true}
+    ],
+    "related": [
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Styles without a clock."},
+      {"href": "/key-west-conch-train-tours", "title": "Conch Train", "text": "Sit-and-ride overview context."},
+      {"href": "/dry-tortugas-excursions", "title": "Dry Tortugas", "text": "Why it is not a routine short call."}
+    ],
+    "faq": [
+      {"q": "Is this a list of bookable tours?", "a": "No. The path is preserved from an older site. The page compares planning ideas only."},
+      {"q": "What is usually simplest for a first call?", "a": "A walkable Old Town day — if your docking arrangement supports it — or a short sightseeing loop with Conch Train or trolley context if you want narration and less walking."}
+    ]
+  },
+  {
+    "path": "/dry-tortugas-excursions",
+    "title": "Dry Tortugas from Key West | Cruise-Day Suitability",
+    "description": "Dry Tortugas from a Key West cruise call: distance, full-day commitment and suitability notes. Planning caution — not a ticket shop or guaranteed same-day excursion.",
+    "h1": "Dry Tortugas from a Key West Cruise Call",
+    "eyebrow": "Suitability · Full-day caution",
+    "lede": "Dry Tortugas National Park sits far west of Key West. It is a destination in its own right — not a routine short shore excursion for every cruise call.",
+    "crumb": "Dry Tortugas",
+    "actions": [
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true},
+      {"href": "/best-key-west-shore-excursions", "label": "Compare day ideas", "quiet": true}
+    ],
+    "related": [
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Day shapes that usually fit better."},
+      {"href": "/key-west-cruise-port-guide", "title": "Port guide", "text": "Return-window thinking."},
+      {"href": "/best-key-west-shore-excursions", "title": "Day ideas", "text": "Simpler Key West alternatives."}
+    ],
+    "faq": [
+      {"q": "Can every cruise passenger visit Dry Tortugas on call day?", "a": "No. Ferry and seaplane options are long commitments. Many cruise schedules simply do not leave enough time with a safe return margin."},
+      {"q": "Does this page sell ferry tickets?", "a": "No. It is a suitability guide only."}
+    ]
+  },
+  {
+    "path": "/key-west-conch-train-tours",
+    "title": "Key West Conch Train | Sightseeing Transport Context",
+    "description": "Key West Conch Train as cruise-day sightseeing context: when a narrated loop helps, how it fits Old Town exploring, and planning notes — not tickets or prices.",
+    "h1": "Key West Conch Train — Planning Context",
+    "eyebrow": "Local transport · Not a ticket shop",
+    "lede": "The Conch Tour Train is a familiar Key West sightseeing loop. On this site it is planning context for cruise visitors who want narration and less walking — not a product listing.",
+    "crumb": "Conch Train",
+    "actions": [
+      {"href": "/key-west-trolley-tours", "label": "Trolley context", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true}
+    ],
+    "related": [
+      {"href": "/key-west-trolley-tours", "title": "Trolley tours", "text": "Another sit-and-ride style."},
+      {"href": "/can-you-walk-key-west-from-cruise-port", "title": "Walk from port", "text": "When walking may be enough."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Transport-supported day shapes."}
+    ],
+    "faq": [
+      {"q": "Can I buy Conch Train tickets here?", "a": "No. Confirm operators, departures and prices locally or through your preferred booking channel."},
+      {"q": "Is the Conch Train the same as the trolley?", "a": "They are related sightseeing ideas with different vehicles and hop patterns. Treat both as optional support for a cruise day, not as interchangeable products on this site."}
+    ]
+  },
+  {
+    "path": "/key-west-trolley-tours",
+    "title": "Key West Trolley Tours | Hop-On Planning Context",
+    "description": "Key West trolley tours as cruise-day context: hop-on sightseeing support for Old Town and landmarks. Planning notes only — no tickets, prices or operator affiliation.",
+    "h1": "Key West Trolley Tours — Planning Context",
+    "eyebrow": "Local transport · Not a product",
+    "lede": "Trolley-style hop-on sightseeing can help when you want flexibility and less continuous walking. This page explains the planning idea — not a live ticket catalogue.",
+    "crumb": "Trolley",
+    "actions": [
+      {"href": "/key-west-conch-train-tours", "label": "Conch Train context", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true}
+    ],
+    "related": [
+      {"href": "/key-west-conch-train-tours", "title": "Conch Train", "text": "Narrated loop alternative."},
+      {"href": "/southernmost-point-tours", "title": "Southernmost Point", "text": "Landmark often reached by ride or walk."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Where trolley support fits."}
+    ],
+    "faq": [
+      {"q": "Does this page sell trolley tickets?", "a": "No. It is editorial planning context only."}
+    ]
+  },
+  {
+    "path": "/key-west-sunset-sailing",
+    "title": "Key West Sunset Sailing | Cruise-Day Timing Notes",
+    "description": "Key West sunset sailing for cruise visitors: timing and suitability notes. Not tickets, not a promise that every ship’s schedule fits an evening sail.",
+    "h1": "Key West Sunset Sailing — Timing Context",
+    "eyebrow": "Water day · Suitability first",
+    "lede": "Sunset sailing is a classic Key West image. For cruise passengers the real question is timing: whether your ship’s arrival, departure and all-aboard window leave room for an evening harbour sail.",
+    "crumb": "Sunset sailing",
+    "actions": [
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true},
+      {"href": "/key-west-cruise-port-guide", "label": "Port guide", "quiet": true}
+    ],
+    "related": [
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Water-oriented day shapes."},
+      {"href": "/key-west-snorkelling-tours", "title": "Snorkelling context", "text": "Daytime water alternative."},
+      {"href": "/key-west-cruise-port-guide", "title": "Port guide", "text": "Return planning."}
+    ],
+    "faq": [
+      {"q": "Can every cruise passenger fit a sunset sail?", "a": "No. Early departures and tight return windows make evening sails a poor fit on many calls."},
+      {"q": "Do you sell sailing tickets?", "a": "No."}
+    ]
+  },
+  {
+    "path": "/key-west-family-excursions",
+    "title": "Key West Family Excursions | Cruise-Day Family Planning",
+    "description": "Key West with family on a cruise call: walkability, short-distance sightseeing, heat and rest planning, and water balance. Editorial guidance — not a fake family tour list.",
+    "h1": "Key West Family Excursions — Planning Notes",
+    "eyebrow": "Families · Pace matters",
+    "lede": "Key West can work well with children when the day stays short-distance and paced. Flat Old Town streets help — heat, queues and overpacking the plan do not.",
+    "crumb": "Family",
+    "actions": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Walkability", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true}
+    ],
+    "related": [
+      {"href": "/key-west-conch-train-tours", "title": "Conch Train", "text": "Lower-walking overview option."},
+      {"href": "/duval-street-guide", "title": "Duval Street", "text": "Short-distance Old Town spine."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Relaxed and walking styles."}
+    ],
+    "faq": [
+      {"q": "Is this a list of family tour products?", "a": "No. It is planning guidance for pacing a Key West cruise day with mixed ages."}
+    ]
+  },
+  {
+    "path": "/southernmost-point-tours",
+    "title": "Southernmost Point from a Cruise | Key West Landmark Planning",
+    "description": "Southernmost Point buoy for cruise visitors: how it fits a Key West day, walking versus ride options, and queue/heat notes. Planning context — not a tour product.",
+    "h1": "Southernmost Point — Cruise-Day Planning",
+    "eyebrow": "Landmark · Not a tour listing",
+    "lede": "The Southernmost Point buoy is a popular photo stop. Treat it as one optional landmark in a cruise day — not as a product you buy on this site.",
+    "crumb": "Southernmost Point",
+    "actions": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Walk from port", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true}
+    ],
+    "related": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "title": "Walk from port", "text": "Distance depends on docking."},
+      {"href": "/hemingway-house-tours", "title": "Hemingway House", "text": "Nearby Old Town culture interest."},
+      {"href": "/key-west-trolley-tours", "title": "Trolley context", "text": "Ride-supported landmark days."}
+    ],
+    "faq": [
+      {"q": "Is this a Southernmost Point tour product?", "a": "No. The URL is preserved. The page is landmark planning context only."}
+    ]
+  },
+  {
+    "path": "/hemingway-house-tours",
+    "title": "Hemingway House from a Cruise | Key West Culture Planning",
+    "description": "Ernest Hemingway Home for cruise visitors: Old Town context, walking or short-ride access, and timed-entry practicality. Planning notes — not tickets.",
+    "h1": "Hemingway House — Cruise-Day Planning",
+    "eyebrow": "Culture · Old Town",
+    "lede": "The Ernest Hemingway Home and Museum is a popular Old Town stop. On this site it is cultural planning context for a cruise day — not a ticket counter.",
+    "crumb": "Hemingway House",
+    "actions": [
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true},
+      {"href": "/duval-street-guide", "label": "Duval Street", "quiet": true}
+    ],
+    "related": [
+      {"href": "/duval-street-guide", "title": "Duval Street", "text": "Nearby Old Town spine."},
+      {"href": "/southernmost-point-tours", "title": "Southernmost Point", "text": "Another common landmark interest."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "History/culture day shapes."}
+    ],
+    "faq": [
+      {"q": "Can I buy museum tickets here?", "a": "No. Check the museum’s own channels for entry rules and timing."}
+    ]
+  },
+  {
+    "path": "/key-west-snorkelling-tours",
+    "title": "Key West Snorkelling | Cruise-Day Water Planning",
+    "description": "Key West snorkelling for cruise visitors: reef-day suitability, timing versus Old Town walking, and planning notes. Not tickets, operators or prices.",
+    "h1": "Key West Snorkelling — Planning Context",
+    "eyebrow": "Water day · Suitability",
+    "lede": "Snorkelling is a common Key West water interest. Whether it fits a cruise call depends on trip length, sea conditions and how much Old Town time you still want.",
+    "crumb": "Snorkelling",
+    "actions": [
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true},
+      {"href": "/key-west-dolphin-watching-tours", "label": "Dolphin watching", "quiet": true}
+    ],
+    "related": [
+      {"href": "/key-west-dolphin-watching-tours", "title": "Dolphin watching", "text": "Related harbour/water day idea."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Water-oriented styles."},
+      {"href": "/key-west-cruise-port-guide", "title": "Port guide", "text": "Return-window thinking."}
+    ],
+    "faq": [
+      {"q": "Do you sell snorkel trips?", "a": "No. This is planning context only."}
+    ]
+  },
+  {
+    "path": "/key-west-dolphin-watching-tours",
+    "title": "Key West Dolphin Watching | Cruise-Day Wildlife Notes",
+    "description": "Key West dolphin watching for cruise visitors: wildlife-day suitability and timing notes. Sightings vary — this is not a ticket shop or a guarantee.",
+    "h1": "Key West Dolphin Watching — Planning Context",
+    "eyebrow": "Wildlife · No guarantees",
+    "lede": "Dolphin watching trips search nearby waters for wild dolphins. Treat sightings as variable, and treat this page as suitability context — not a product.",
+    "crumb": "Dolphin watching",
+    "actions": [
+      {"href": "/key-west-snorkelling-tours", "label": "Snorkelling context", "quiet": true},
+      {"href": "/one-day-in-key-west", "label": "One-day styles", "quiet": true}
+    ],
+    "related": [
+      {"href": "/key-west-snorkelling-tours", "title": "Snorkelling", "text": "Another water-day option."},
+      {"href": "/key-west-family-excursions", "title": "Family planning", "text": "Pacing notes for mixed ages."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Water-oriented styles."}
+    ],
+    "faq": [
+      {"q": "Are dolphin sightings guaranteed?", "a": "No. Wildlife sightings vary. Plan the day with that uncertainty in mind."}
+    ]
+  },
+  {
+    "path": "/key-west-faq",
+    "title": "Key West Shore Excursions FAQ | Cruise Port Answers",
+    "description": "Key West cruise FAQ: walkability, docking context, one-day choices, Dry Tortugas suitability and independent exploring. Short answers — no booking.",
+    "h1": "Key West Shore Excursions FAQ",
+    "eyebrow": "Quick answers",
+    "lede": "Short answers for first-time cruise visitors planning Key West — focused on walkability, docking nuance and day shape, not on selling tours.",
+    "crumb": "FAQ",
+    "actions": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "label": "Walk from port", "quiet": true},
+      {"href": "/key-west-cruise-port-guide", "label": "Port guide", "quiet": true}
+    ],
+    "related": [
+      {"href": "/can-you-walk-key-west-from-cruise-port", "title": "Walk from port", "text": "Full walkability guide."},
+      {"href": "/one-day-in-key-west", "title": "One day", "text": "Day styles."},
+      {"href": "/dry-tortugas-excursions", "title": "Dry Tortugas", "text": "Full-day caution."}
+    ],
+    "faq": [
+      {"q": "How long do cruise ships usually stay in Key West?", "a": "Many calls are in a roughly half-day to long-day range, but exact hours vary by sailing. Always use your ship’s published times."},
+      {"q": "Can you walk from the Key West cruise port?", "a": "Often yes for Old Town, but distance depends on docking arrangement. See the walkability guide for Mallory Square and Outer Mole context."},
+      {"q": "Do I need a tour?", "a": "Many passengers explore independently on foot. Local sightseeing transport or water trips help when you want narration, less walking, or time on the water."},
+      {"q": "Is Dry Tortugas realistic on a cruise day?", "a": "Only when the call is long enough for a full-day offshore commitment with safe return margin. For many sailings it is not a routine fit."},
+      {"q": "Does this website take bookings?", "a": "No. It is an independent planning guide."}
+    ]
+  }
+]
